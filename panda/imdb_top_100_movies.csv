@@ -1,0 +1,101 @@
+Rank,Title,Year,IMDb_Rating,Genre,Director,Runtime_Minutes,Language,Oscar_Wins
+1,The Shawshank Redemption,1994,9.3,Drama,Frank Darabont,142,English,7
+2,The Godfather,1972,9.2,Crime,Francis Ford Coppola,175,English,3
+3,The Dark Knight,2008,9.1,Action,Christopher Nolan,152,English,2
+4,The Godfather Part II,1974,9.0,Crime,Francis Ford Coppola,202,English,6
+5,The Lord of the Rings: The Return of the King,2003,9.0,Adventure,Peter Jackson,201,English,11
+6,12 Angry Men,1957,9.0,Drama,Sidney Lumet,96,English,0
+7,Schindler's List,1993,9.0,Biography,Steven Spielberg,195,English,7
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,Adventure,Peter Jackson,178,English,4
+9,Pulp Fiction,1994,8.8,Crime,Quentin Tarantino,154,English,1
+10,"The Good, the Bad and the Ugly",1966,8.8,Western,Sergio Leone,161,Italian,1
+11,The Lord of the Rings: The Two Towers,2002,8.8,Adventure,Peter Jackson,142,English,7
+12,Forrest Gump,1994,8.8,Drama,Robert Zemeckis,175,English,3
+13,Fight Club,1999,8.8,Drama,David Fincher,152,English,2
+14,Inception,2010,8.8,Sci-Fi,Christopher Nolan,202,English,6
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Sci-Fi,Irvin Kershner,201,English,11
+16,The Matrix,1999,8.7,Sci-Fi,Lana Wachowski & Lilly Wachowski,96,English,0
+17,Goodfellas,1990,8.7,Crime,Martin Scorsese,195,English,7
+18,Interstellar,2014,8.7,Sci-Fi,Christopher Nolan,178,English,4
+19,One Flew Over the Cuckoo's Nest,1975,8.6,Drama,Miloš Forman,154,English,1
+20,Se7en,1995,8.6,Crime,David Fincher,161,Italian,1
+21,It's a Wonderful Life,1946,8.6,Drama,Frank Capra,142,English,7
+22,The Silence of the Lambs,1991,8.6,Horror,Jonathan Demme,175,English,3
+23,Saving Private Ryan,1998,8.6,War,Steven Spielberg,152,English,2
+24,City of God,2002,8.6,Crime,Fernando Meirelles,202,English,6
+25,Life Is Beautiful,1997,8.6,Drama,Roberto Benigni,201,English,11
+26,The Green Mile,1999,8.6,Drama,Frank Darabont,96,English,0
+27,Terminator 2: Judgment Day,1991,8.6,Action,James Cameron,195,English,7
+28,Star Wars: Episode IV - A New Hope,1977,8.6,Sci-Fi,George Lucas,178,English,4
+29,Back to the Future,1985,8.5,Adventure,Robert Zemeckis,154,English,1
+30,Spirited Away,2001,8.6,Adventure,Hayao Miyazaki,161,Italian,1
+31,The Pianist,2002,8.5,Animation,Roman Polanski,142,English,7
+32,Parasite,2019,8.5,Biography,Bong Joon Ho,175,English,3
+33,Psycho,1960,8.5,Drama,Alfred Hitchcock,152,English,2
+34,Gladiator,2000,8.5,Horror,Ridley Scott,202,English,6
+35,The Departed,2006,8.5,Action,Martin Scorsese,201,English,11
+36,The Prestige,2006,8.5,Crime,Christopher Nolan,96,English,0
+37,The Intouchables,2011,8.5,Drama,Olivier Nakache & Éric Toledano,195,English,7
+38,Modern Times,1936,8.5,Comedy,Charlie Chaplin,178,English,4
+39,Once Upon a Time in the West,1968,8.5,Comedy,Sergio Leone,154,English,1
+40,Cinema Paradiso,1988,8.5,Western,Giuseppe Tornatore,161,Italian,1
+41,Rear Window,1954,8.5,Drama,Alfred Hitchcock,142,English,7
+42,Alien,1979,8.5,Mystery,Ridley Scott,175,English,3
+43,Apocalypse Now,1979,8.4,Sci-Fi,Francis Ford Coppola,152,English,2
+44,Memento,2000,8.4,War,Christopher Nolan,202,English,6
+45,The Great Dictator,1940,8.4,Mystery,Charlie Chaplin,201,English,11
+46,Indiana Jones and the Raiders of the Lost Ark,1981,8.4,Comedy,Steven Spielberg,96,English,0
+47,The Lives of Others,2006,8.4,Adventure,Florian Henckel von Donnersmarck,195,English,7
+48,Django Unchained,2012,8.5,Drama,Quentin Tarantino,178,English,4
+49,The Dark Knight Rises,2012,8.4,Action,Christopher Nolan,154,English,1
+50,WALL·E,2008,8.4,Animation,Andrew Stanton,161,Italian,1
+51,The Wolf of Wall Street,2013,8.2,Comedy,Martin Scorsese,142,English,7
+52,American Beauty,1999,8.3,Drama,Sam Mendes,175,English,3
+53,The Usual Suspects,1995,8.5,Crime,Bryan Singer,152,English,2
+54,Léon: The Professional,1994,8.5,Crime,Luc Besson,202,English,6
+55,The Lion King,1994,8.5,Crime,Roger Allers & Rob Minkoff,201,English,11
+56,The Green Book,2018,8.2,Animation,Peter Farrelly,96,English,0
+57,Avengers: Endgame,2019,8.4,Drama,Todd Phillips,195,English,7
+58,Joker,2019,8.3,Drama,John Lasseter,178,English,4
+59,Toy Story,1995,8.3,Animation,Mel Gibson,154,English,1
+60,Braveheart,1995,8.3,Animation,Jean-Pierre Jeunet,161,Italian,1
+61,Amélie,2001,8.3,Drama,Thomas Vinterberg,142,English,7
+62,The Hunt,2012,8.3,Drama,Lee Unkrich,175,English,3
+63,Coco,2017,8.4,Drama,Makoto Shinkai,152,English,2
+64,Your Name.,2016,8.4,Animation,Rajkumar Hirani,202,English,6
+65,3 Idiots,2009,8.4,Drama,Sergio Leone,201,English,11
+66,Once Upon a Time in America,1984,8.3,Drama,Gus Van Sant,96,English,0
+67,Good Will Hunting,1997,8.3,Comedy,Darren Aronofsky,195,English,7
+68,Requiem for a Dream,2000,8.3,Drama,Gene Kelly & Stanley Donen,178,English,4
+69,Singin' in the Rain,1952,8.3,Drama,Alfred Hitchcock,154,English,1
+70,North by Northwest,1959,8.3,Comedy,Michel Gondry,161,Italian,1
+71,Eternal Sunshine of the Spotless Mind,2004,8.3,Drama,Stanley Kubrick,142,English,7
+72,2001: A Space Odyssey,1968,8.3,Drama,Quentin Tarantino,175,English,3
+73,Reservoir Dogs,1992,8.3,Crime,Martin Scorsese,152,English,2
+74,Taxi Driver,1976,8.2,Crime,David Lean,202,English,6
+75,Lawrence of Arabia,1962,8.3,Drama,Billy Wilder,201,English,11
+76,Double Indemnity,1944,8.3,Drama,George Roy Hill,96,English,0
+77,The Sting,1973,8.3,Comedy,Ron Howard,195,English,7
+78,A Beautiful Mind,2001,8.2,Drama,Milos Forman,178,English,4
+79,Amadeus,1984,8.4,Drama,Robert Mulligan,154,English,1
+80,To Kill a Mockingbird,1962,8.3,Drama,Lee Unkrich,161,Italian,1
+81,Toy Story 3,2010,8.3,Drama,Quentin Tarantino,142,English,7
+82,Inglourious Basterds,2009,8.4,Comedy,Billy Wilder,175,English,3
+83,The Apartment,1960,8.3,Drama,Howard Hawks,152,English,2
+84,Bringing Up Baby,1938,8.0,Drama,Charlie Chaplin,202,English,6
+85,The Kid,1921,8.2,Drama,Pete Docter,201,English,11
+86,Up,2009,8.3,Comedy,Robert Benton,96,English,0
+87,Jaws,1975,8.1,Animation,Frank Capra,195,English,7
+88,The Father,2020,8.2,Action,Peter Weir,178,English,4
+89,All About Eve,1950,8.2,Drama,Terry Gilliam,154,English,1
+90,The Truman Show,1998,8.2,Drama,M. Night Shyamalan,161,Italian,1
+91,Monty Python and the Holy Grail,1975,8.2,Drama,Paul Thomas Anderson,142,English,7
+92,The Sixth Sense,1999,8.2,Crime,Billy Wilder,175,English,3
+93,There Will Be Blood,2007,8.2,Crime,Frank Darabont,152,English,2
+94,Some Like It Hot,1959,8.2,Action,Martin Scorsese,202,English,6
+95,The Handmaiden,2016,,Drama,Joel Coen & Ethan Coen,201,English,11
+96,Heat,1995,8.3,Crime,Park Chan-wook,96,English,0
+97,Scarface,1983,8.3,Action,Michael Mann,195,English,7
+98,Casino,1995,8.2,Drama,Brian De Palma,178,English,4
+99,No Country for Old Men,2007,8.2,Action,Martin Scorsese,154,English,1
+100,Batman Begins,2005,8.2,Action,Joel Coen & Ethan Coen,161,Italian,1
